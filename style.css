@@ -51,6 +51,11 @@ a {
     z-index: 3;
 }
 
+.youtube {
+    background-color: #ff1919;
+    z-index: 3;
+}
+
 .icon i {
     font-size: 30px;
     color: white;
